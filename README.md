@@ -16,6 +16,8 @@
 
 This lab is all about Git and GitHub workflows so you'll be working in teams. This lab is optimized for 2 or 4 participants per repo, so once you're in a team of 2-4 people, designate a team captain and have them fork the repo.
 
+Then, have the team captain add the remaining team member(s) as collaborators - they'll need editor access in order to commit to the same repo without entirely different forks.
+
 ## Framing
 
 You've been handed a half-built bulletin board from a team at another company that couldn't quite get it working before they had to reassign the engineer working on it.
@@ -66,3 +68,7 @@ At this point, `block-refactor` should be ready to merge back in to `main`.
 | Task   | Find a way to ensure that the grid fills. You could use any number of tricks to make this happen, including some conditional sizing, some clever sorting, or some resourceful CSS Grid work. | Now that you've got different BlockGrids available to you, it's time to sort these announcements by category. For now, let's just add a "work" and "personal" tag to each announcement, and put them in two corresponding block grids with titles. |
 
 These two features are both mostly independent of one another, so each can be merged directly onto `main` when it is done. Follow the same procedures as above.
+
+### 4. Choose Your Own Adventure
+
+From this point on, it's totally up to you - talk with your teams about what's reasonable to accomplish in the time that remains, and create the corresponding feature branches to make it happen.
