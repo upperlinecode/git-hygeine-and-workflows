@@ -12,6 +12,8 @@
 
 ## Why?
 
+Before starting this lab, please read [this post](https://cloudfour.com/thinks/squashing-your-pull-requests) on some of the options available to you when you decide to merge your work into main.
+
 ## Directions
 
 This lab is all about Git and GitHub workflows so you'll be working in teams. This lab is optimized for 2 or 4 participants per repo, so once you're in a team of 2-4 people, designate a team captain and have them fork the repo.
